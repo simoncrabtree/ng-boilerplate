@@ -47,6 +47,6 @@ autoWatch = false;
  * or "firefox", but that these vary based on your operating system.
  */
 browsers = [
-  'Chrome'
+  'PhantomJS'
 ];
 
