@@ -1,17 +1,6 @@
 {
-  "author": "Josh David Miller",
-  "name": "ng-boilerplate",
-  "version": "0.2.0-SNAPSHOT",
-  "homepage": "http://bit.ly/ng-boilerplate",
-  "licenses": {
-    "type": "MIT",
-    "url": "https://raw.github.com/joshdmiller/ng-boilerplate/master/LICENSE"
-  },
-  "bugs": "https://github.com/joshdmiller/ng-boilerplate/issues",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:joshdmiller/ng-boilerplate.git"
-  },
+  "name": "appname",
+  "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
